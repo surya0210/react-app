@@ -4,10 +4,12 @@
   box-sizing: border-box;
 }
 
+
+
 html {
   font-family: "Quicksand", sans-serif;
   line-height: 1.5;
-
+  height:1000px;
   color: #ebe7ef;
   background: radial-gradient(#280a48, #20043d);
 
