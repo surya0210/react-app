@@ -9,7 +9,6 @@ import TabButton from './components/TabButton'
 import { EXAMPLES,CORE_CONCEPTS } from './data/data'
 
 function App() {
-  console.log("gfgf");
   const [selectedTopic,setSelectedTopic]=useState();
 
   let tabContent='Please click here';
